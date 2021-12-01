@@ -32,26 +32,33 @@ Weakness:
 1) Require to improve communication skill,  
 2) Take more communication and discussion when applying new coding technique.  
 
-Project involved:  
-2013 - Credit bureau via Host-to-Host facility,  
-2014 - Sales Collector Assignment Automation,  
-2014 - RPG / Java Generate QR Code for Payment,  
-2014-16 - Application, Network Monitoring tools with SMS.email alert,  
-2015 - AS400 Interface to PBX System via SOAP Web Service,  
-2015 - Design API for SMS Sending Interface Call using HTTP request from AS400,  
-2015 - Interface to Web Application (Apply Anywhere, to allow new customers to perform application, upload the application document, member registration, Loan Transfer via the web site),  
-Work Flow, Web Design, Interface to AS400, security, document flow),  
-2015 - EDDA Electronic Direct Debit Authorization interface to AS400 via ODBC,  
-2015 - Generate digitial-signed PDF via iText and GlobalSign Service,  
-2016 - Generate Excel via POI and RPG JNI interface,  
-2016 - Chinese conversion handling (EBEDIC to UTF),  
-2016 - Java Mail API via SSL authenicated connection,  
-2016 - Application support for Datacenter Relocation,  
-2017-3 - On-line loan system web revamp, web upload, involve.  
-2017-3 - 24 hours loan transfer, implement POX web service access via https XML interface. Design queuing process, consider performance consideration and security implementation using symnatic encrpyption,  
-2019 - Generate QR Code using ZXing with RPG Interface,  
-2019 - Using iText to print PDF from text file.  
+2013 Credit bureau via Host-to-Host facility
+2014 Sales Collector Assignment Automation
+2014 RPG / Java Generate QR Code for Payment
+2014-16 Application, Network Monitoring tools with SMS.email alert
+2015 AS400 Interface to PBX System via SOAP Web Service 
+2015 Design API for SMS Sending Interface Call using HTTP request from AS400
+2015 Interface to Web Application (Apply Anywhere, to allow new customers to perform application, upload the application document, member registration, Loan Transfer via the web site)
+Work Flow, Web Design, Interface to AS400, security, document flow)
+2015 EDDA Electronic Direct Debit Authorization interface to AS400 via ODBC
+2015 Generate digitial-signed PDF via iText and GlobalSign Service
+2016 Generate Excel via POI and RPG JNI interface
+2016 Chinese conversion handling (EBEDIC to UTF)
+2016 Java Mail API via SSL authenicated connection
+2016 Application support for Datacenter Relocation
+2017-3 On-line loan system web revamp, web upload, involve 
+2017-3 BOC 24 hours loan transfer, implement POX web service access via https XML interface. Design queuing process
+ in performance consideration and security implementation using symnatic encrpyption
+2019 Generate QR Code using ZXing with RPG Interface
+2019 Using iText to print PDF from text file and write java program to add digital signature to PDF
+2019 HA / BCP solution, MIMIX setup 
+2020 Anti Money Laundering, XML Implemenation, SFTP, PGP encryption by Java
+2021 JSON implmentation, REST API communication for 3rd Party Bank
 
-Continously Monthly Loan Application enhancement (Support Business Process Flow, Reporting, Personal Data Retention Policy, Personal Data Usage Written Consent)  
+Continously Monthly Loan Application enhancement (Support Business Process Flow, Reporting, Personal Data Retention Policy, Personal Data Usage Written Consent)
 
-Network Setup, including DNS, routing for Web, BCP Drill 
+Knowledge sharing with collages
+
+
+*** not yet involved
+Network Setup, including DNS, routing for Web, BCP Drill
