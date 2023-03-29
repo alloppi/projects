@@ -24,7 +24,7 @@ Major Task:
 14) Further understanding Business Requirement in order to suggest better solution.  
 
 Major IBM i Projects Involved:  
-2013: Credit Bureau via Host-to-Host facility
+2013. Credit Bureau via Host-to-Host facility
 2014: Sales Collector Assignment Automation
 2014: RPG / Java Generate QR Code in Payment Printing
 2014-16: Application, Network Monitoring tools with SMS.email alert
