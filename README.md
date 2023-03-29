@@ -25,9 +25,9 @@ Major Task:
 
 Major IBM i Projects Involved:  
 2013. Credit Bureau via Host-to-Host facility
-2014: Sales Collector Assignment Automation
-2014: RPG / Java Generate QR Code in Payment Printing
-2014-16: Application, Network Monitoring tools with SMS.email alert
+2014. Sales Collector Assignment Automation
+2014) RPG / Java Generate QR Code in Payment Printing
+2014-16) Application, Network Monitoring tools with SMS.email alert
 2015: AS400 Interface to PBX System via SOAP Web Service 
 2015: Design API for SMS Sending Interface Call using HTTP request from AS400
 2015: Interface to Web Application (Apply Anywhere, to allow new customers to perform application, upload the application document, member registration, Loan Transfer via the web site)
