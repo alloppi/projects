@@ -24,14 +24,14 @@ Major Task:
 14) Further understanding Business Requirement in order to suggest better solution.  
 
 Major IBM i Projects Involved:
-1. 2013. Credit Bureau via Host-to-Host facility
-2. 2014. Sales Collector Assignment Automation
-3. 2014. RPG / Java Generate QR Code in Payment Printing
-4. 2014-16) Application, Network Monitoring tools with SMS.email alert
+1. 2013: Credit Bureau via Host-to-Host facility
+2. 2014: Sales Collector Assignment Automation
+3. 2014: RPG / Java Generate QR Code in Payment Printing
+4. 2014-2016: Application, Network Monitoring tools with SMS.email alert
 5. 2015: AS400 Interface to PBX System via SOAP Web Service
 6. 2015: Design API for SMS Sending Interface Call using HTTP request from AS400
 7. 2015: Interface to Web Application (Apply Anywhere, to allow new customers to perform application, upload the application document, member registration, Loan Transfer via the web site)
-8. Work Flow, Web Design, Interface to AS400, security, document flow)
+8. 2015: Work Flow, Web Design, Interface to AS400, security, document flow)
 9. 2015: EDDA Electronic Direct Debit Authorization interface to AS400 via ODBC
 10. 2015: Generate digitial-signed PDF via iText and GlobalSign Service
 11. 2016: Generate Excel via POI and RPG JNI interface
